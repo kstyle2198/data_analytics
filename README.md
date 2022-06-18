@@ -1,7 +1,7 @@
 # Data_Analyitics
 
 These are tips and records about studying basics of ML and trials in Dacon Competitions.</br>
-In these days, I especially focusing on EDA related libraries like pandas-profiling and pycaret.
+In these days, I am especially focusing on EDA related libraries like pandas-profiling and pycaret.
 
 
 <a href="https://pypi.org/project/pandas-profiling/" target="_blank" rel="noopener noreferrer"><img src="./img/pandas_profiling.png" width="40%" height="30%" title="pandas-profiling" alt="pandas-profiling"></img></a>
