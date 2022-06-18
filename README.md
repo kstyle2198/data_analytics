@@ -27,7 +27,7 @@ import matplotlib.pyplot as plt
   (eg. iris, diabetes, cancer, boston, etc.)
 
 
-### 3. See pandas prifiling
+### 3. See pandas profiling
 
 >profile = ProfileReport(df, title="Pandas Profiling Report", explorative=True)
 
