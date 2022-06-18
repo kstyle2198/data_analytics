@@ -4,8 +4,8 @@ These are tips and records about studying basics of ML and trials in Dacon Compe
 In these days, I especially focusing on EDA related libraries like pandas-profiling and pycaret.
 
 
-<a href="https://pypi.org/project/pandas-profiling/"><img src="./img/pandas_profiling.png" width="40%" height="30%" title="pandas-profiling" alt="pandas-profiling"></img></a>
-<a href ="https://pycaret.org/"><img src="./img/pycaret.png" width="40%" height="30%" title="pycaret" alt="pycaret"></img></a>
+<a href="https://pypi.org/project/pandas-profiling/" target="_blank"><img src="./img/pandas_profiling.png" width="40%" height="30%" title="pandas-profiling" alt="pandas-profiling"></img></a>
+<a href ="https://pycaret.org/" target="_blank"><img src="./img/pycaret.png" width="40%" height="30%" title="pycaret" alt="pycaret"></img></a>
 
 ---
 
